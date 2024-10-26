@@ -1,19 +1,20 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-10-26 18:32:31
+## 更新时间：2024-10-26 18:40:59
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 2999160 | 索尼克×夏特 世代重启：艺术集&原声集| DLC |
-| 300610 | Pure Pool| Game |
-| 3070070 | TCG Card Shop Simulator| Game |
-| 3085890 | 世外桃源| Game |
-| 3089040 | 泳装乱舞| Game |
-| 310700 | Super Win the Game| Game |
-| 3228000 | 完蛋！我被美女包围了！前传-2K视频| DLC |
-| 3130 | Men of War: Red Tide| game |
-| 3167820 | Resplendent| Game |
-| 3167800 | Therapy| Game |
-| 319140 | Xeodrifter™| Game |
-| 3267810 | The Coma 2B: Catacomb - Artbook| DLC |
-| 329970 | KeeperRL| Game |
-| 33780 | Drakensang 2 - Phileasson's Secret| game |
+| 2754690 | 这个是真的喜欢！| Game |
+| 2800450 | Planetaries| Game |
+| 2815590 | Twizzle Puzzle: Birds| Game |
+| 2838360 | SINce Memories 星穹之下 数字版| Game |
+| 2846060 | Subterror| Game |
+| 2871050 | Endless halo| Game |
+| 2868070 | Descending The Woods| Game |
+| 2891040 | 变身夏日：与TS室友的同居生活| Game |
+| 289690 | Lara Croft and the Temple of Osiris| Game |
+| 2909790 | 索尼克×夏特 世代重启：经典索尼克 经典皮肤| DLC |
+| 2909770 | 索尼克×夏特 世代重启：额外内容扩展包| DLC |
+| 2905090 | UberSoldier| Game |
+| 2923390 | 服装店模拟| Game |
+| 2897700 | Arizona Sunshine® Remake| Game |
+| 2951840 | 崛起力量: 测试英雄| Game |
