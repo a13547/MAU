@@ -1,11 +1,13 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-10-26 19:32:25
+## 更新时间：2024-10-26 19:40:44
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1840080 | 家园3| Game |
-| 1848520 | Fruit Salad| Game |
-| 1876460 | Salty Hounds| Game |
-| 1890860 | Arma Reforger Experimental| Game |
-| 1942280 | 土豆兄弟(Brotato)| Game |
-| 1950570 | 传述之魔女| Game |
+| 1702390 | Voor De Kroon| Game |
+| 2328120 | Tower Tactics: Liberation - Celestial Dawn| DLC |
+| 1732390 | 那由多之轨迹：改| Game |
+| 17440 | Spore: Creepy & Cute Parts Pack| game |
+| 1742930 | 抬头只见天花板 Looking Up I See Only A Ceiling| Game |
+| 1765300 | 终极僵尸防御2| Game |
+| 1809250 | 转生到RPG世界将NPC给…| Game |
+| 1821420 | Battle Of The Robots| Game |
