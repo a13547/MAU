@@ -1,11 +1,12 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-10-26 19:47:11
+## 更新时间：2024-10-26 19:53:58
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1584650 | 仙剑奇侠传三外传·问情篇 原声音乐精选集| Music |
-| 1589570 | 护林猿神| Game |
-| 1619750 | Karryn's Prison| Game |
-| 1623420 | Serious Sam: Kamikaze Attack!| Game |
-| 1658150 | 月光石岛| Game |
-| 1663040 | Amber Isle| Game |
+| 1482490 | SEIKEN-MANIFESTIA| Game |
+| 1501090 | Yin yang| Game |
+| 1543240 | Gigapocalypse| Game |
+| 2919800 | Knightly Passions: Between Life and Death| DLC |
+| 1555150 | Pocket Bravery| Game |
+| 1565670 | Five Nations| Game |
+| 1570130 | GameCreator| Application |
