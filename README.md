@@ -1,13 +1,11 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-10-26 19:40:44
+## 更新时间：2024-10-26 19:47:11
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1702390 | Voor De Kroon| Game |
-| 2328120 | Tower Tactics: Liberation - Celestial Dawn| DLC |
-| 1732390 | 那由多之轨迹：改| Game |
-| 17440 | Spore: Creepy & Cute Parts Pack| game |
-| 1742930 | 抬头只见天花板 Looking Up I See Only A Ceiling| Game |
-| 1765300 | 终极僵尸防御2| Game |
-| 1809250 | 转生到RPG世界将NPC给…| Game |
-| 1821420 | Battle Of The Robots| Game |
+| 1584650 | 仙剑奇侠传三外传·问情篇 原声音乐精选集| Music |
+| 1589570 | 护林猿神| Game |
+| 1619750 | Karryn's Prison| Game |
+| 1623420 | Serious Sam: Kamikaze Attack!| Game |
+| 1658150 | 月光石岛| Game |
+| 1663040 | Amber Isle| Game |
