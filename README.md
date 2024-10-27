@@ -1,14 +1,6 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-10-27 09:53:54
+## 更新时间：2024-10-27 15:34:35
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 740 | Counter-Strike Global Offensive - Dedicated Server| Tool |
-| 1483870 | Draw & Guess - 你画我猜| Game |
-| 1938090 | 使命召唤®| Game |
-| 1614550 | Astro Colony| Game |
-| 2662210 | Astro Colony Dedicated Server| Tool |
-| 2934900 | Astro Colony Dedicated Server Linux| Tool |
-| 3036080 | 沙威玛传奇 - Shawarma Legend| Game |
-| 2695940 | PANICORE| Game |
-| 2719030 | 超级键盘侠| Game |
+| 无 | 无 | 无 |
